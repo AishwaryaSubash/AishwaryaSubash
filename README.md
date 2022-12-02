@@ -1,4 +1,4 @@
-### Hello!! This is Aishwarya!! 👋
+### Hello!! This is Aishwarys!! I am adept at solving technical problems with practical solutions. Proficient in various platforms, languages and frameworks.
 
 <!--
 **AishwaryaSubash/AishwaryaSubash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
