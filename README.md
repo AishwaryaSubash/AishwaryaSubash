@@ -1,4 +1,6 @@
-### Hello!! This is Aishwarys!! I am adept at solving technical problems with practical solutions. Proficient in various platforms, languages and frameworks.
+### <div align="center">Hello!! This is Aishwarya!!</div> <div align="center"> I love coding and I believe I am adept at solving technical problems with practical solutions.</div><div align="center"> I am proficient in various platforms, languages and frameworks.</div>
+<div align="center"><img src="https://media2.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif?cid=ecf05e479ls6mxz2wuh374owf99qa20dq3c1u8uec4m3mhsk&amp;rid=giphy.gif&amp;ct=s" alt="Love Sticker by ITechArt Life" style="width: 500px; height: 500px; left: 0px; top: 0px;"></div>
+
 
 <!--
 **AishwaryaSubash/AishwaryaSubash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
