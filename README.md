@@ -1,6 +1,6 @@
 <h1>🤗 About Me:</h1>
 
-### <div align="center">Hello!! This is Aishwarya!!</div> <div align="center"> I love coding and I believe I am adept at solving technical problems with practical solutions.</div><div align="center"> I am proficient in various platforms, languages and frameworks.</div>
+### <div align="left">Hello!! This is Aishwarya!!</div> <div align="left"> I love coding and I believe I am adept at solving technical problems with practical solutions.</div><div align="left"> I am proficient in various platforms, languages and frameworks.</div>
 
 <br />
 <hr />
