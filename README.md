@@ -1,4 +1,4 @@
-<h1>#️⃣ About Me:</h1>
+<h1>:hash: About Me:</h1>
 
 ### 
 <div align="left">Building with code and burning with ambition.</div>
@@ -10,7 +10,7 @@
 <br />
 <h1>🛠️ My Skills:</h1>
 
-♠ Languages:
+♠️ Languages:
 <br />
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
