@@ -1,4 +1,4 @@
-<h1>#️⃣ About Me:</h1>
+<h1>💫 About Me:</h1>
 
 ### 
 <div align="left">Building with code and burning with ambition.</div>
