@@ -1,8 +1,8 @@
-<h1>🤗 About Me:</h1>
+<h1>#️⃣ About Me:</h1>
 
 ### 
 <div align="left">Building with code and burning with ambition.</div>
-<div align="left">I am a passionate full stack developer proficient in embracing the latest frameworks and libraries, constantly pushing the boundaries of what's possible</div> 
+<div align="left">I am a passionate Full Stack Developer proficient in embracing the latest frameworks and libraries, constantly pushing the boundaries of what's possible.</div> 
 <div align="left">I love coding and solving real-world problems that inspire change.</div>
 
 <br />
