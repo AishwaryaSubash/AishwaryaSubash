@@ -1,6 +1,9 @@
 <h1>🤗 About Me:</h1>
 
-### <div align="left">Hello!! This is Aishwarya!!</div> <div align="left"> I love coding and I believe I am adept at solving technical problems with practical solutions.</div><div align="left"> I am proficient in various platforms, languages and frameworks.</div>
+### 
+<div align="left">Building with code and burning with ambition.</div>
+<div align="left">I am a passionate full stack developer proficient in embracing the latest frameworks and libraries, constantly pushing the boundaries of what's possible</div> 
+<div align="left">I love coding and solving real-world problems that inspire change.</div>
 
 <br />
 <hr />
