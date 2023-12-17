@@ -88,9 +88,8 @@
 
 <br />
 
-[![Aishwarya's GitHub Streak](https://streak-stats.demolab.com?user=AishwaryaSubash&theme=midnight-purple)](https://git.io/streak-stats)
-<br /><br />
-<a href="http://www.github.com/AishwaryaSubash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaSubash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaSubash&theme=midnight-purple&hide_border=false" alt="Aishwarya's GitHub Streak" />
+
 
 <br />
 <br />
