@@ -88,11 +88,7 @@
 
 <br />
 
-![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaSubash&show_icons=true&theme=synthwave)
-<br /><br />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AishwaryaSubash&theme=midnight-purple&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
-<br /><br />
-[![Aishwarya's GitHub Streak](https://streak-stats.demolab.com?user=AishwaryaSubash&theme=midnight-purple&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![Aishwarya's GitHub Streak](https://streak-stats.demolab.com?user=AishwaryaSubash&theme=midnight-purple)](https://git.io/streak-stats)
 <br /><br />
 <a href="http://www.github.com/AishwaryaSubash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaSubash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
